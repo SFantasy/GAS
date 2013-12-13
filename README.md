@@ -5,7 +5,9 @@ Do things with [Google APP Script](http://script.google.com) happily.
 
 ## Introduction
 
-### ClearInbox
+### Gmail
+
+#### ClearInbox
 
 Ones like me who want to clear their GMail inbox everyday, there are three steps to do with this:
 
