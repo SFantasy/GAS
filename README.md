@@ -7,6 +7,11 @@ Do things with [Google APP Script](http://script.google.com) happily.
 
 ### Gmail
 
+#### ClearGmail
+
+1. Empty spams (recently, trash cannot be emtpy)
+2. Mark e-mails in inbox as read
+
 #### ClearInbox
 
 Ones like me who want to clear their GMail inbox everyday, there are three steps to do with this:
@@ -16,6 +21,8 @@ Ones like me who want to clear their GMail inbox everyday, there are three steps
 3. Move it to archive.
 
 This Google APP Script is tend to do those stuff automatically.
+
+## TODO
 
 ## License
 
