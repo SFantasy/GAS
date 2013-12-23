@@ -1,7 +1,9 @@
 GAS
 ===
 
-Do things with [Google APP Script](http://script.google.com) happily.
+**Experimental**
+
+*(you can run code on [script.google.com](http://script.google.com))*
 
 ## Introduction
 
